@@ -22,8 +22,6 @@ For me i can do these reminders that keep me in **a growing mindset**:
 1. Solve problems by thinking out of the box.
 2. Never stop asking and learning.
 3. Start to learn new hobby.
-
-Thank you for your time 
-
-And don't forget to check my GitHub portfolio page : 
+-
+Thank you for your time And don't forget to check my GitHub portfolio page : 
 https://github.com/Lina-yousef
