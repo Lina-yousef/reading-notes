@@ -8,7 +8,7 @@ A growth mindset believes that abilities can be developed through perseverance a
 the concept is a love of learning.
 A fixed mindset, sees that success comes from  intelligence and talent and there's no need for further development or effort.
 
-I think we have to be ability to use a growth mindset that is can make us more successful without a huge stress.
+I think we should have ability to use a growth mindset that is can make us more successful without a huge stress.
 -
 Now I want to give you soe differences between fixed and a growth mindset when they're facing :
 
