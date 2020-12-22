@@ -4,6 +4,8 @@ Today i want to tell you what i think about **Growth Mindset**
 
 **What is a growth mindset?**
 
+![]
+
 A growth mindset believes that abilities can be developed through perseverance and effort .
 the concept is a love of learning.
 A fixed mindset sees that success comes from  intelligence and talent and there's no need for further development or effort.
