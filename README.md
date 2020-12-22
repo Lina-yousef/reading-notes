@@ -28,6 +28,4 @@ For me i can do these reminders that keep me in **a growing mindset**:
 
 Thank you for your time :purple_heart: And don't forget to check [my GitHub portfolio page ](https://github.com/Lina-yousef)
 
-[GROTH Mind](Home.md)
-
 
