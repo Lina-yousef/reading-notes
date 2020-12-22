@@ -1,3 +1,3 @@
 |hhh|hhh|
 |---|---|
-|nn|mj|
+|nn|[GROTH Mind](README.md)|
