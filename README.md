@@ -13,9 +13,9 @@ I think we should have ability to use a growth mindset that is can make us more 
 Now I want to give you some differences between fixed and a growth mindset when they're facing :
 
 
-|----------|Fixed Minset | Groth Mindset |
+||Fixed Minset | Groth Mindset |
 | :------------- | :----------: | -----------: |
-|Challenges |Avoid        |Embraces |
+|Challenges |Avoid  |Embraces |
 |Obstacles  |Loses focus |Persists |
 |Criticism  |Ignores |Learns from |
 
