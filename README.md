@@ -13,10 +13,11 @@ I think we should have ability to use a growth mindset that is can make us more 
 Now I want to give you some differences between fixed and a growth mindset when they're facing :
 
 
-----------| Fixed Minset  | Groth Mindset |
-Challenges| Avoid         | Embraces      |
-Obstacles | Loses focus   | Persists      |
-Criticism | Ignores       | Learns from   |
+|----------|Fixed Minset | Groth Mindset |
+| :------------- | :----------: | -----------: |
+|Challenges |Avoid        |Embraces |
+|Obstacles  |Loses focus |Persists |
+|Criticism  |Ignores |Learns from |
 
 For me i can do these reminders that keep me in **a growing mindset**:
 1. Solve problems by thinking out of the box.
