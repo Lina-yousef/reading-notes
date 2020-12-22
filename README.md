@@ -27,4 +27,6 @@ For me i can do these reminders that keep me in **a growing mindset**:
 3. Start to learn new hobby.
 
 Thank you for your time :purple_heart: And don't forget to check my GitHub portfolio page : 
-https://github.com/Lina-yousef
+[Lina](https://github.com/Lina-yousef)
+
+
