@@ -22,7 +22,7 @@
    - calling the function (need argument ).  
    some functions return information to the code that called them.
 
-[Previous](Read06b.md)   [Home](README.md)  [Next](Read08.md)
+[Previous](Read06b.md)  | [Home](README.md) | [Next](Read08.md)
 
 
 
