@@ -14,4 +14,7 @@ If there is no CSS, the rendering engine will apply default styles to HTML eleme
 When you use JavaScript in the browser:
  there is a part of the browser that is called an interpreter. 
  The interpreter takes your instructions (in JavaScript) 
- and translates them into instructions the browser can use to achieve the tasks you want it to perform. each line of code is translated one-by-one as the script is run.
+ and translates them into instructions the browser can use to achieve the tasks you want it to perform. 
+ Each line of code is translated one-by-one as the script is run.
+
+[Home](README.md)
