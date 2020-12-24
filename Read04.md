@@ -45,4 +45,4 @@ To collect information from visitors you can use ( Form Control) :
 -Uploading files ( file upload )
 *Information form is sent in name/value .
 
-[Home](README.md)
+[Previous](Read03.md)   [Home](README.md)  [Next](Read06a.md)
