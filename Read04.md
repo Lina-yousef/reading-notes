@@ -44,3 +44,5 @@ To collect information from visitors you can use ( Form Control) :
 -Submitting ( submit button / img button)
 -Uploading files ( file upload )
 *Information form is sent in name/value .
+
+[Home](README.md)
