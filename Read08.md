@@ -30,4 +30,7 @@ Types of loops:
 - While 
 - Do While 
 
+[Previous](Read07.md)   [Home](README.md)  
+
+
 
