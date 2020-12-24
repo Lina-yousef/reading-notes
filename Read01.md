@@ -26,4 +26,4 @@ GitHub uses its own markdown syntax that provides an additional features like:
 - Using Emoji : by typing ( :Emojicode: ).
 - Paragraph : creating by leaving blank line between lines.
 
-[Home](README.md)
+[Previous](Mindset.html)   [Home](README.md)  [Next](Read02.md)
