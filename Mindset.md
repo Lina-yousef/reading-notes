@@ -27,4 +27,4 @@ For me i can do these reminders that keep me in **a growing mindset**:
 3. Start to learn new hobby.
 
 
-[Home](README.md)
+ [Home](README.md)  [Next](Read01.md)
