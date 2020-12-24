@@ -1,6 +1,6 @@
-Mastering Markdown 
-
-A way to style text on web like : formatting words (bold , italic) , adding images , creating lists.
+Mastering Markdown                                                                                                                                             
+                                                                         
+A way to style text on web like : formatting words (bold , italic) , adding images , creating lists.                                                          
 
 GitHub uses its own markdown syntax that provides an additional features like:
 
@@ -25,3 +25,5 @@ GitHub uses its own markdown syntax that provides an additional features like:
             - Task List : add text after -[ ] , use -[x] to mark task as completed.
 - Using Emoji : by typing ( :Emojicode: ).
 - Paragraph : creating by leaving blank line between lines.
+
+[Home](README.md)
