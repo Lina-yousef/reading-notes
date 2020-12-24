@@ -15,4 +15,4 @@ Shell is a part to show how terminal will looks after running commands like (she
 when users want to get to a particular file they simply click on file name on the screen but with command line there's some features to get like : (pwd) tells where we currently , (ls) listing the content , (Absolute and Relative) to get to a particular file and (cd) changes directory.
 Under Linux everything is a file. Extension shows what type of file is it ,for example: (index.html) and  Linux is extension less and it is case sensitive that mean we have to type in correct way to get the expected result.
 
-[Previous](Read01.md)   [Home](README.md)  [Next](Read03.md)
+[Previous](Read01.md)  | [Home](README.md) | [Next](Read03.md)
