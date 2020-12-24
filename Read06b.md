@@ -31,3 +31,5 @@ I can get Creative ideas using circuits
 Every input and output are information and to process information I/O a computer needs to modified and combine I so it has millions of electronic component called circuits
 Software and hardware
 Operating system OS :A master program that manages how software uses hardware of the computer .it can install programs
+
+[Previous](Read06a.md) [Home](README.md) [Next](Read07.md)
