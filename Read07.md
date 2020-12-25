@@ -1,4 +1,4 @@
- Programming with JavaScript
+ **Programming with JavaScript**
  
   JavaScript allows to make web pages more interactive by
   -accessing(select any element,att.txt from html pages).  
