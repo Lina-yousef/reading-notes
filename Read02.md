@@ -1,4 +1,4 @@
- The Coder's Computer
+ **The Coder's Computer**
 
 Text editor is an important tool that web developer use it to write text that build a website. So we have different Text editors with different features such as : code completion, Emmet, syntax and theme that are saves your time and make your writing more efficiently and noticeable . 
 
