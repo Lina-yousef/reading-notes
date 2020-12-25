@@ -1,4 +1,4 @@
- Revisions and the Cloud
+ **Revisions and the Cloud**
 
 Version Control (VCS): a system  allows to revisit various versions by recording changes. 
 Local Version Control: database on your hard desk that stores changes to files.
