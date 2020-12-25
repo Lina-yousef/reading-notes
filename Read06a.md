@@ -1,4 +1,4 @@
-Dynamic web pages with JavaScript
+**Dynamic web pages with JavaScript**
 
 Each page on a website can be seen as a separate document .
 
