@@ -1,4 +1,4 @@
-Operators and Loops
+**Operators and Loops**
 
 Comparison and logical operators
  
