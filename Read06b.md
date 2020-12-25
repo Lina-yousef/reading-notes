@@ -1,4 +1,4 @@
-Computer Architecture and Logic
+**Computer Architecture and Logic**
 
 How computers work : what makes a computer, a computer?
 
