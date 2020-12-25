@@ -1,4 +1,4 @@
-Mastering Markdown                                                                                                                                             
+**Mastering Markdown**                                                                                                                                             
                                                                          
 A way to style text on web like : formatting words (bold , italic) , adding images , creating lists.                                                          
 
