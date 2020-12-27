@@ -11,6 +11,7 @@ To see my reading notes , check the table below:
 | Read02  | [The Coder's Computer](Read02.md)|
 | Read03  | [Revisions and the Cloud](Read03.md)|
 | Read04  | [Structure web pages with HTML](Read04.md)|
+| Read05  | [Design web pages with CSS](Read05.md)|
 | Read06a | [Dynamic web pages with JavaScript](Read06a.md)|
 | Read06b | [Computer Architecture and Logic](Read06b.md)|
 | Read07  | [Programming with JavaScript](Read07.md)|

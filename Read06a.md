@@ -17,4 +17,4 @@ When you use JavaScript in the browser:
  and translates them into instructions the browser can use to achieve the tasks you want it to perform. 
  Each line of code is translated one-by-one as the script is run.
 
-[Previous](Read04.md) |  [Home](README.md) | [Next](Read06b.md)
+[Previous](Read05.md) |  [Home](README.md) | [Next](Read06b.md)
