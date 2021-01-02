@@ -1,8 +1,10 @@
 Hello! I'm **Lina Al-mashaikh**.
-I’m 24 years old and I'm a Software Engineer . 
+I’m 24 years old and I'm a Software Devloper. 
 
 
-To see my reading notes , check the table below:
+**To see my reading notes , check the table below:**
+
+**Code 102 Reading Notes:** 
 
 |Read no. | Read link |
 | :------------- | -------------: |
@@ -16,6 +18,27 @@ To see my reading notes , check the table below:
 | Read06b | [Computer Architecture and Logic](Read06b.md)|
 | Read07  | [Programming with JavaScript](Read07.md)|
 | Read08  | [Operators and Loops](Read08.md)| 
+
+**Code 201 Reading Notes:**
+
+|Read no. | Read link |
+| :------------- | -------------: |
+| Read01 | []() | 
+| Read02 | []() | 
+| Read03 | []() | 
+| Read04 | []() | 
+| Read05 | []() | 
+| Read06 | []() | 
+| Read07 | []() | 
+| Read08 | []() | 
+| Read09 | []() | 
+| Read10 | []() | 
+| Read11 | []() | 
+| Read12 | []() | 
+| Read13 | []() | 
+| Read14 | []() | 
+| Read15 | []() | 
+
 
 Thank you for your time :purple_heart: And don't forget to check [my GitHub portfolio page](https://github.com/Lina-yousef)
 
