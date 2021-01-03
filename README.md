@@ -24,7 +24,7 @@ I’m 24 years old and I'm a Software Devloper.
 |Read no. | Read link |
 | :------------- | -------------: |
 | class-01 | [ Introductory HTML and JavaScript](class-01.md) | 
-| Read02 | []() | 
+| class-02 | [Basics of HTML, CSS & JS](class-02.md) | 
 | Read03 | []() | 
 | Read04 | []() | 
 | Read05 | []() | 
