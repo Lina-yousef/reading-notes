@@ -4,12 +4,12 @@
 
 - **Headings** :(h1-h6) HTML has six levels of headings with different sizes.
 - **Paragraphs** : (p) To create a paragraph.
-- **Bold** : (<b>) To make characters appear bold.
-- **italic** : (<i>)  To make characters appear italic.
-- **Superscript** : (<sup>) to contain characters that should be superscript, used for raising a number to a power.
-- **Subscript** : (<sub>) to contain characters that should be subscript ,used with foot notes or chemical formulas such as H2O .
-- **Line Break** : (<br/>) To show paragraph or heading on a new line. 
-- **Horizontal Rule** : (<hr/>) To create a break between themes.
+- **Bold** : (b) To make characters appear bold.
+- **italic** : (i)  To make characters appear italic.
+- **Superscript** : (sup) to contain characters that should be superscript, used for raising a number to a power.
+- **Subscript** : (sub) to contain characters that should be subscript ,used with foot notes or chemical formulas such as H2O .
+- **Line Break** : (br) To show paragraph or heading on a new line. 
+- **Horizontal Rule** : (hr) To create a break between themes.
 
 **Visual editors** 
 
@@ -19,24 +19,24 @@ Usually have two views of the page you are creating: a visual editor and a code 
 
 Text elements that are not intended to affect the structure of web pages, but they add extra information to the pages.
 
-- (<strong>)  : for content with strong importance.show the contents in bold.
-- (<em>)      : emphasis that subtly changes the meaning of a sentence. show the contents in italic.
+- (strong)  : for content with strong importance.show the contents in bold.
+- (em)      : emphasis that subtly changes the meaning of a sentence. show the contents in italic.
 
 **quotations** 
 
-- (<blockquote>) : used for longer quotes that take up an entire paragraph.
-- (<q>)          : s used for shorter quotes that sit within a paragraph.
+- (blockquote) : used for longer quotes that take up an entire paragraph.
+- (q)          : s used for shorter quotes that sit within a paragraph.
 
-**Abbreviations** : (<abbr>) A title attribute on the opening tag ,used to specify the full term.
-**Acronyms** : (<acronym>)  To spell out the full form of the acronym
-**Citation** : (<cite>) When referencing a piece of work like a book ,to indicate where the citation is from.
-**Definitions** : (<dfn>) to indicate the defining instance of a new term.
-**(<address>)** : to contain contact details for the author of the page.
+**Abbreviations** : (abbr) A title attribute on the opening tag ,used to specify the full term.
+**Acronyms** : (acronym)  To spell out the full form of the acronym
+**Citation** : (cite) When referencing a piece of work like a book ,to indicate where the citation is from.
+**Definitions** : (dfn) to indicate the defining instance of a new term.
+**(address)** : to contain contact details for the author of the page.
 
 **Changes to Content** 
-- (<ins>) : to show content that has been inserted into a document.
-- (<del>) : to show text that has been deleted from it.
-- (<s>)   : to indicates something that is no longer accurate (but that should not be deleted). 
+- (ins) : to show content that has been inserted into a document.
+- (del) : to show text that has been deleted from it.
+- (s)   : to indicates something that is no longer accurate (but that should not be deleted). 
 
 **CSS**
 
