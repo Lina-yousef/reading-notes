@@ -54,7 +54,7 @@ A script is a series of instructions that the computer can follow in order to ac
 It is best to keep JavaScript code in its own JavaScript file.
 
 
-
+| [Home](README.md) | [Next](class-02.md) 
 
 
 
