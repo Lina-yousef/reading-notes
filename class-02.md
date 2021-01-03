@@ -28,9 +28,13 @@ Text elements that are not intended to affect the structure of web pages, but th
 - (q)          : s used for shorter quotes that sit within a paragraph.
 
 **Abbreviations** : (abbr) A title attribute on the opening tag ,used to specify the full term.
+
 **Acronyms** : (acronym)  To spell out the full form of the acronym
+
 **Citation** : (cite) When referencing a piece of work like a book ,to indicate where the citation is from.
+
 **Definitions** : (dfn) to indicate the defining instance of a new term.
+
 **(address)** : to contain contact details for the author of the page.
 
 **Changes to Content** 
