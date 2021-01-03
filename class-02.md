@@ -91,7 +91,7 @@ Array :A special type of variable stores a list of values.
 - EXPRESSIONS that use two or more values to return a single value.(var area = 3 * 2; )
 
 **Mathematical operators**
-![]()
+![](.png)
 
 
 **Decisions and Loops** 
@@ -126,7 +126,7 @@ Logical AND &&
 Logical OR	 
 Logical NOT !
 
-
+[Previous](class-01.md)  | [Home](README.md) | [Next](class-03.md)
 
 
 
