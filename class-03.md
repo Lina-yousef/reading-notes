@@ -50,14 +50,6 @@ var msg;
 
 var level = 2;
 
-II Message
-
-11 Level
-
-c04/js/switch-statement .js
-
-/I Determine message based on level
-
 switch (level) {
 
 case 1:
@@ -82,11 +74,12 @@ default :
 
 msg = 'Good l uck!';
 
-break;
+break;}
 
 var el = document.getEl ementByld('answer');
 
 el .textContent = msg; 
+
 
 **There are three types of loop:**
 - for  
