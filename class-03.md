@@ -47,45 +47,21 @@ Example: var colors;
 The purpose of the switch statement is to present the user with a different message depending on which level they are at:
 
 var msg;
-
 var level = 2;
-
-II Message
-
-11 Level
-
-c04/js/switch-statement .js
-
-/I Determine message based on level
-
 switch (level) {
-
 case 1:
-
 msg = 'Good luck on the first test ' ;
-
 break;
-
 case 2:
-
 msg = 'Second of three - keep going!';
-
 break;
-
 case 3:
-
 msg = ' Final round, al most there!';
-
 break;
-
 default :
-
 msg = 'Good l uck!';
-
-break;
-
+break;}
 var el = document.getEl ementByld('answer');
-
 el .textContent = msg; 
 
 **There are three types of loop:**
