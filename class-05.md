@@ -1,4 +1,4 @@
-** HTML Images; CSS Color & Text**
+**HTML Images; CSS Color & Text**
 
 **Images**
 
@@ -21,7 +21,7 @@ appears in.
 
 **Animated GIFs show several frames of an image in sequence and therefore can be used to create simple animations.**
 
-!(class05.png)
+![](class05.png)
 
 **(figure)** :to contain images and their caption.
 **(figcaption)** :to allow web page authors to add a caption to an image.
@@ -63,7 +63,7 @@ appears in.
 
 **Attribute Selectors**
 
-!(class055.png)
+![](class055.png)
 
 
 
