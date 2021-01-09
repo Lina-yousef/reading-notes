@@ -5,16 +5,20 @@
 Created using the (a) element.which has an attribute called (href) .
 
 * Type of **Links** :
-● Links from one website to another:**absoluteURL**
-● Links from one page to another on the same website :**relative URL**
-● Links from one part of a web page to another part of the same page:identify the part with id 
-● Links from one part of a web page to another page:absolute URL or a relative URL, followed by the (#) symbol.
-● Links that open in a new browser window:g. The value of attribute(_blank).<a href="http://www.imdb.com" target="_blank">
-● Links that start up your email program and address a new email to someone:
+- Links from one website to another:**absoluteURL**
+
+- Links from one page to another on the same website :**relative URL**
+
+- Links from one part of a web page to another part of the same page:identify the part with id
+
+- Links from one part of a web page to another page:absolute URL or a relative URL, followed by the (#) symbol.
+
+- Links that open in a new browser window:g. The value of attribute(_blank).<a href="http://www.imdb.com" target="_blank">
+
+- Links that start up your email program and address a new email to someone:
 **Email Links** (mailto:) :eg: <a href="mailto:jon@example.org">Email Jon</a>
 
 **Relative URL**: can be used when linking to pages within your own website.
-
 
 **Layout**
 
@@ -53,7 +57,6 @@ should touch the left or right.
 4. Social skills:When working with someone who has a different coding style, communication is ke
 5. Job interview readiness:to carry out exercises together, such as: (code challenges, building a project or feature ordebugging an existing code).
 6. Work environment readiness :Code Fellows graduates who are already familiar with how pairing works can hit the ground running at a new job.
-
 
 
 [Previous](class-03.md)  | [Home](README.md) | [Next](class-05.md)

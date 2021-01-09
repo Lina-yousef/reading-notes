@@ -17,28 +17,26 @@ I’m 24 years old and I'm a Software Devloper.
 | Read06a | [Dynamic web pages with JavaScript](Read06a.md)|
 | Read06b | [Computer Architecture and Logic](Read06b.md)|
 | Read07  | [Programming with JavaScript](Read07.md)|
-| Read08  | [Operators and Loops](Read08.md)| 
+| Read08  | [Operators and Loops](Read08.md)|
 
 **Code 201 Reading Notes:**
 
 |Read no. | Read link |
 | :------------- | -------------: |
-| class-01 | [Introductory HTML and JavaScript](class-01.md) | 
-| class-02 | [Basics of HTML, CSS & JS](class-02.md) | 
-| class-03 | [HTML Lists, CSS Boxes, JS Control Flow ](class-03.md) | 
-| class-04 | [HTML Links, CSS Layout, JS Functions](class-04.md) | 
-| Read06 | []() | 
-| Read07 | []() | 
-| Read08 | []() | 
-| Read09 | []() | 
-| Read10 | []() | 
-| Read11 | []() | 
-| Read12 | []() | 
-| Read13 | []() | 
-| Read14 | []() | 
-| Read15 | []() | 
+| class-01 | [Introductory HTML and JavaScript](class-01.md) |
+| class-02 | [Basics of HTML, CSS & JS](class-02.md) |
+| class-03 | [HTML Lists, CSS Boxes, JS Control Flow](class-03.md) |
+| class-04 | [HTML Links, CSS Layout, JS Functions](class-04.md) |
+| class-06 |  [HTML Images; CSS Color & Text](class-05.md) |
+| Read07 | []() |
+| Read08 | []() |
+| Read09 | []() |
+| Read10 | []() |
+| Read11 | []() |
+| Read12 | []() |
+| Read13 | []() |
+| Read14 | []() |
+| Read15 | []() |
 
 
 Thank you for your time :purple_heart: And don't forget to check [my GitHub portfolio page](https://github.com/Lina-yousef)
-
-
