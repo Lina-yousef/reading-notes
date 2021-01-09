@@ -27,8 +27,8 @@ I’m 24 years old and I'm a Software Devloper.
 | class-02 | [Basics of HTML, CSS & JS](class-02.md) |
 | class-03 | [HTML Lists, CSS Boxes, JS Control Flow](class-03.md) |
 | class-04 | [HTML Links, CSS Layout, JS Functions](class-04.md) |
-| class-06 |  [HTML Images; CSS Color & Text](class-05.md) |
-| Read07 | []() |
+| class-05 | [HTML Images; CSS Color & Text](class-05.md) |
+| class-06 | [JS Object Literals; The DOM](class-06.md) |
 | Read08 | []() |
 | Read09 | []() |
 | Read10 | []() |
