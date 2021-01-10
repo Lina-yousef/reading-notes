@@ -29,14 +29,15 @@ I’m 24 years old and I'm a Software Devloper.
 | class-04 | [HTML Links, CSS Layout, JS Functions](class-04.md) |
 | class-05 | [HTML Images; CSS Color & Text](class-05.md) |
 | class-06 | [JS Object Literals; The DOM](class-06.md) |
-| Read08 | []() |
-| Read09 | []() |
-| Read10 | []() |
-| Read11 | []() |
-| Read12 | []() |
-| Read13 | []() |
-| Read14 | []() |
-| Read15 | []() |
+| class-07 | [HTML Tables; JS Constructor Functions](class-07.md) |
+| class-08 | []() |
+| class-09 | []() |
+| class-10 | []() |
+| class-11 | []() |
+| class-12 | []() |
+| class-13 | []() |
+| class-14 | []() |
+| class-15 | []() |
 
 
 Thank you for your time :purple_heart: And don't forget to check [my GitHub portfolio page](https://github.com/Lina-yousef)
