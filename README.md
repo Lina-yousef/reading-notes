@@ -33,7 +33,7 @@ I’m 24 years old and I'm a Software Devloper.
 | class-08 | [CSS Layout](class-08.md) |
 | class-09 | [Forms and JS Events](class-09.md) |
 | class-10 | [JS Debugging](class-10.md) |
-| class-11 | []() |
+| class-11 | [Audio, Video, Images](class-11.md) |
 | class-12 | []() |
 | class-13 | []() |
 | class-14 | []() |
