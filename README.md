@@ -35,7 +35,7 @@ I’m 24 years old and I'm a Software Devloper.
 | class-10 | [JS Debugging](class-10.md) |
 | class-11 | [Audio, Video, Images](class-11.md) |
 | class-12 | [Docs for the HTML (canvas) Element & Chart.js](class-12.md) |
-| class-13 | []() |
+| class-13 | [Local Storage](class-13.md) |
 | class-14 | []() |
 | class-15 | []() |
 
