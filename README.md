@@ -23,21 +23,21 @@ I’m 24 years old and I'm a Software Devloper.
 
 |Read no. | Read link |
 | :------------- | -------------: |
-| class-01 | [Introductory HTML and JavaScript](class-01.md) |
-| class-02 | [Basics of HTML, CSS & JS](class-02.md) |
-| class-03 | [HTML Lists, CSS Boxes, JS Control Flow](class-03.md) |
-| class-04 | [HTML Links, CSS Layout, JS Functions](class-04.md) |
-| class-05 | [HTML Images; CSS Color & Text](class-05.md) |
-| class-06 | [JS Object Literals; The DOM](class-06.md) |
-| class-07 | [HTML Tables, JS Constructor Functions](class-07.md) |
-| class-08 | [CSS Layout](class-08.md) |
-| class-09 | [Forms and JS Events](class-09.md) |
-| class-10 | [JS Debugging](class-10.md) |
-| class-11 | [Audio, Video, Images](class-11.md) |
-| class-12 | [Docs for the HTML (canvas) Element & Chart.js](class-12.md) |
-| class-13 | [Local Storage](class-13.md) |
-| class-14 | [CSS Transforms, Transitions, and Animations](class-14.md)|
-| class-15 | []() |
+| class-01  | [Introductory HTML and JavaScript](class-01.md) |
+| class-02  | [Basics of HTML, CSS & JS](class-02.md) |
+| class-03  | [HTML Lists, CSS Boxes, JS Control Flow](class-03.md) |
+| class-04  | [HTML Links, CSS Layout, JS Functions](class-04.md) |
+| class-05  | [HTML Images; CSS Color & Text](class-05.md) |
+| class-06  | [JS Object Literals; The DOM](class-06.md) |
+| class-07  | [HTML Tables, JS Constructor Functions](class-07.md) |
+| class-08  | [CSS Layout](class-08.md) |
+| class-09  | [Forms and JS Events](class-09.md) |
+| class-10  | [JS Debugging](class-10.md) |
+| class-11  | [Audio, Video, Images](class-11.md) |
+| class-12  | [Docs for the HTML (canvas) Element & Chart.js](class-12.md) |
+| class-13  | [Local Storage](class-13.md) |
+| class-14a | [CSS Transforms, Transitions, and Animations](class-14a.md)|
+| class-14b | [What Google Learned About Teams](class-14b.md) |
 
 
 Thank you for your time :purple_heart: And don't forget to check [my GitHub portfolio page](https://github.com/Lina-yousef)

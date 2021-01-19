@@ -50,4 +50,4 @@
 * You don’t construct a statement like **"SELECT * from USERS where ACTIVE = 'Y'"**. Instead, you use methods provided by the object store to open a cursor on the database named **“USERS”.**
 
 
-[Previous](class-12.md)  | [Home](README.md) | [Next](class-14.md)
+[Previous](class-12.md)  | [Home](README.md) | [Next](class-14a.md)
