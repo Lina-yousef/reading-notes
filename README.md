@@ -4,7 +4,7 @@ I’m 24 years old and I'm a Software Devloper.
 
 **To see my reading notes , check the table below:**
 
-**Code 102 Reading Notes:** 
+**Code 102 - Intro to Software Development Reading Notes:** 
 
 |Read no. | Read link |
 | :------------- | -------------: |
@@ -19,7 +19,7 @@ I’m 24 years old and I'm a Software Devloper.
 | Read07  | [Programming with JavaScript](Read07.md)|
 | Read08  | [Operators and Loops](Read08.md)|
 
-**Code 201 Reading Notes:**
+**Code 201 - Foundations of Software Development Reading Notes:**
 
 |Read no. | Read link |
 | :------------- | -------------: |
@@ -38,6 +38,10 @@ I’m 24 years old and I'm a Software Devloper.
 | class-13  | [Local Storage](class-13.md) |
 | class-14a | [CSS Transforms, Transitions, and Animations](class-14a.md)|
 | class-14b | [What Google Learned About Teams](class-14b.md) |
+
+**Code 301 - Intermediate Software Development**
+
+
 
 
 Thank you for your time :purple_heart: And don't forget to check [my GitHub portfolio page](https://github.com/Lina-yousef)
