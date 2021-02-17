@@ -46,7 +46,7 @@ I’m 24 years old and I'm a Software Devloper.
 | class-01  | [Responsive Web Design](301Read/class01.md) |
 | class-02  | [jQuery, Events, and The DOM](301Read/class02.md) |
 | class-03  | [Flexbox and Templating](301Read/class03.md) |
-| class-04  | []() |
+| class-04  | [CSS GRID](301Read/class04.md) |
 | class-05  | []() |
 | class-06  | []() |
 | class-07  | []() |
