@@ -50,7 +50,7 @@ I’m 24 years old and I'm a Software Devloper.
 | class-05  | [HEROKU](301Read/class05.md) |
 | class-06  | [NODE.JS](301Read/class06.md) |
 | class-07  | [REST](301Read/class07.md) |
-| class-08  | []() |
+| class-08  | [](301Read/class08.md) |
 | class-09  | []() |
 | class-10  | []() |
 | class-11  | []() |
