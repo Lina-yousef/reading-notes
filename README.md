@@ -49,7 +49,7 @@ I’m 24 years old and I'm a Software Devloper.
 | class-04  | [CSS GRID](301Read/class04.md) |
 | class-05  | [HEROKU](301Read/class05.md) |
 | class-06  | [NODE.JS](301Read/class06.md) |
-| class-07  | []() |
+| class-07  | [REST](301Read/class07.md) |
 | class-08  | []() |
 | class-09  | []() |
 | class-10  | []() |
