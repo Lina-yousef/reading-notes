@@ -55,9 +55,9 @@ I’m 24 years old and I'm a Software Devloper.
 | class-10  | [The Call stack](301Read/class10.md) |
 | class-11  | [EJS](301Read/class11.md) |
 | class-12  | [EJS Partials](301Read/class12.md) |
-| class-13  | []() |
-| class-14  | []() |
-| class-15  | []() |
+| class-13  | [Sending form data](301Read/class13.md) |
+| class-14  | [](301Read/class14.md) |
+| class-15  | [](301Read/class15.md) |
 
 
 
