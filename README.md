@@ -56,7 +56,7 @@ I’m 24 years old and I'm a Software Devloper.
 | class-11  | [EJS](301Read/class11.md) |
 | class-12  | [EJS Partials](301Read/class12.md) |
 | class-13  | [Sending form data](301Read/class13.md) |
-| class-14  | [](301Read/class14.md) |
+| class-14  | [DB Normalization](301Read/class14.md) |
 | class-15  | [](301Read/class15.md) |
 
 
